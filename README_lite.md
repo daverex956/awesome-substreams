@@ -1,3 +1,5 @@
+![awesome-substreams](https://user-images.githubusercontent.com/550895/217890452-86ae6388-6570-4393-8d82-cedf5e783e0e.png)
+
 # Awesome Substreams [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/pinax-network/awesome-substreams?color=blue)](LICENSE)
 
 A carefully curated list of Substreams resources. **⭐ Star it if you find it helpful!**
